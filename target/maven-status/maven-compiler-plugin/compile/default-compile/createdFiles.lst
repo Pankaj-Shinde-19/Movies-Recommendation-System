@@ -1,0 +1,8 @@
+com\g30\entities\User.class
+com\g30\entities\Movie.class
+com\g30\dao\MovieDao.class
+com\g30\dao\UserDao.class
+com\g30\helper\FactoryProvider.class
+com\g30\dao\FeedBackDao.class
+com\g30\entities\FeedBack.class
+com\g30\servlets\MovieServlet.class
